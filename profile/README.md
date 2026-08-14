@@ -1,4 +1,4 @@
-![SECNODE](https://raw.githubusercontent.com/vishnurajkv/public-images/refs/heads/main/banner2.png)
+![SECNODE]()
 
 # SECNODE
 Agentic proactive offensive research and development.
