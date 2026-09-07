@@ -1,4 +1,3 @@
-![SECNODE]()
 
 # SECNODE
 Agentic proactive offensive research and development.
